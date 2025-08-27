@@ -112,4 +112,5 @@ button[type="submit"]{
 button[type="submit"]:hover{
   box-shadow: 0 0 20px rgb(0 0 0 / 0.3);
   cursor: pointer;
+  background-color: #b93f1d;
 }
