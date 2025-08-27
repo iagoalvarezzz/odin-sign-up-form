@@ -57,8 +57,8 @@ footer{
   flex-direction: column;
   text-align: left;
   justify-content: center;
-  padding-left: 5%;
-  padding-right: 20%;
+  padding-left: 80px;
+  padding-right: 300px;
 }
 
 fieldset{
@@ -66,12 +66,15 @@ fieldset{
   gap: 60px;
   flex-wrap: wrap;
   justify-content: space-around;
-  padding: 20px 0;
+  padding: 20px 60px;
 
   border: none;
   border-radius: 8px;
   box-shadow: 0 0 20px rgba(0,0,0,0.15);
   margin-bottom: 40px;
+  
+  margin-left: -80px;
+  margin-right: -300px;
 }
 
 label{
